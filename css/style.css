@@ -62,7 +62,7 @@ html, body
 .full 
 {
 	height: 100%;
-	background-color: yellow;
+	background-color: #242d38;
 	background-size: cover;
 	background-attachment: fixed;
 	position: relative;
